@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# About me
+I am a 21 years old student in software development.
+
 <!--
 **TGACPNV/TGACPNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
