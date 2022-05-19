@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # About me
-I am a 21 years old student in software development.
+I am a student in software development.
 
 # Stats
 ![stat1](https://github-readme-stats-two-iota-44.vercel.app/api?username=tgacpnv&show_icons=true&theme=radical) ![langagues](https://github-readme-stats-two-iota-44.vercel.app/api/top-langs/?username=tgacpnv&layout=compact&show_icons=true&theme=radical)
