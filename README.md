@@ -4,7 +4,7 @@
 I am a student in software development.
 
 # Stats
-![stat1](https://github-readme-stats-two-iota-44.vercel.app/api?username=tgacpnv&show_icons=true&theme=radical) ![langagues](https://github-readme-stats-two-iota-44.vercel.app/api/top-langs/?username=tgacpnv&layout=compact&show_icons=true&theme=radical)
+![stat1](https://github-readme-stats-two-iota-44.vercel.app/api?username=SemicolonManifest&show_icons=true&theme=radical) ![langagues](https://github-readme-stats-two-iota-44.vercel.app/api/top-langs/?username=SemicolonManifest&layout=compact&show_icons=true&theme=radical)
 <!--
 **TGACPNV/TGACPNV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
